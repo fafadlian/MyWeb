@@ -34,7 +34,7 @@ h3 {
     margin-bottom : 0;
 }
 h1, h2{
-    font-family: 'Caveat', cursive;
+    font-family: 'Oxanium', cursive;
     font-weight: 400;
     margin: 0;
 }
@@ -186,6 +186,10 @@ footer{
     .contact-list a {
         padding: 5px;
 
+    }
+
+    .education{
+        background-position: bottom left;
     }
 
 
