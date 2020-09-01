@@ -99,7 +99,8 @@ header{
 /* Work Experience
 ------------------------------------ */
 .work-experience{
-    background-image: url(../images/joanna-kosinska-unsplash.jpg);
+    /* background-image: url(../images/joanna-kosinska-unsplash.jpg); */
+    background:#79C6F9;
     background-size: cover;
     background-position: top right;
     padding-bottom: 10px;
@@ -109,7 +110,8 @@ header{
 /* Education and Sertification
 ------------------------------------ */
 .education {
-    background-image: url(../images/sharon-mccutcheon-unsplash.jpg);
+    background-image: url(../images/joanna-kosinska-unsplash.jpg);
+    /* background-image: url(../images/sharon-mccutcheon-unsplash.jpg); */
     background-size: cover;
     background-position: top right;
     padding-bottom: 100px;
